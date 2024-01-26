@@ -119,6 +119,7 @@ img {
   justify-content: space-between;
   align-items: center;
   font-weight: var(--font-semi);
+  position:sticky;
 }
 
 @media screen and (max-width: 768px) {
